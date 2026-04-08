@@ -27,7 +27,10 @@ df = df.drop_duplicates()
 df['total'] = df['cantidad'] * df['precio_unitario'] * (1 - df['descuento'])
 
 print("Filas después:", len(df))
-
+print("\n[LOG] Normalización de texto aplicada")
+print("[LOG] Conversión de tipos realizada")
+print("[LOG] Eliminación de nulos ejecutada")
+print("[LOG] Cálculo de columna 'total' completado")
 df.to_csv("datos_limpios.csv", index=False)
 
 print("=== TRANSFORM FINALIZADO ===")
