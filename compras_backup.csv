@@ -1,0 +1,21 @@
+id_compra,fecha,producto,categoria,cantidad,unidad,precio_unitario,descuento,proveedor_id,distrito,metodo_pago,estado,almacen,empleado
+1,2026-04-01,Pescado,Alimentos,10,kg,15.5,0.1,PRV001,Cayma,Efectivo,Completado,Almacen1,Juan
+2,01/04/2026,pescado,Alimentos,5,kg,16.0,0.0,PRV002,Cercado,Transferencia,Completado,Almacen1,Ana
+3,2026-04-01,CEBOLLA,Alimentos,20,kg,3.2,0.05,PRV003,José Luis Bustamante,Efectivo,Completado,Almacen2,Carlos
+4,2026-04-02,cebolla,Alimentos,abc,kg,3.5,0.0,PRV004,Cerro Colorado,Tarjeta,Completado,Almacen2,Ana
+5,2026-04-02,Limon,Alimentos,50,kg,1.2,0.0,PRV005,Paucarpata,Efectivo,Completado,Almacen1,Juan
+6,2026-04-02,limon,Alimentos,40,kg,,0.1,PRV005,Miraflores,Transferencia,Completado,Almacen1,Carlos
+7,2026-04-03,Ajo,Alimentos,15,kg,2.5,0.0,PRV003,Cayma,Efectivo,Completado,Almacen2,Juan
+8,2026-04-03,ajo,Alimentos,,kg,2.6,0.0,PRV003,Cercado,Tarjeta,Completado,Almacen2,Ana
+9,2026-04-03,Pescado,Alimentos,8,kg,15.8,0.05,PRV002,Cerro Colorado,Efectivo,Completado,Almacen1,Carlos
+10,2026-04-04,Tomate,Alimentos,25,kg,4.1,0.0,PRV004,Cayma,Transferencia,Completado,Almacen1,Ana
+11,2026-04-04,tomate,Alimentos,30,kg,4.0,0.1,PRV004,Cercado,Efectivo,Completado,Almacen1,Juan
+12,2026-04-04,PESCADO,Alimentos,12,kg,15.7,0.0,PRV001,Cayma,Tarjeta,Completado,Almacen1,Carlos
+13,2026-04-05,Cebolla,Alimentos,18,kg,3.3,0.05,PRV003,Paucarpata,Efectivo,Completado,Almacen2,Juan
+14,2026-04-05,Limon,Alimentos,60,kg,1.1,0.0,PRV005,Miraflores,Transferencia,Completado,Almacen1,Ana
+15,2026-04-05,Ajo,Alimentos,10,kg,2.4,0.0,PRV003,Cercado,Efectivo,Completado,Almacen2,Carlos
+16,2026-04-06,Pescado,Alimentos,abc,kg,15.6,0.0,PRV002,Cerro Colorado,Tarjeta,Completado,Almacen1,Ana
+17,2026-04-06,cebolla,Alimentos,22,kg,3.2,0.1,PRV004,Cayma,Efectivo,Completado,Almacen2,Juan
+18,2026-04-06,limon,Alimentos,45,kg,1.3,0.0,PRV005,Paucarpata,Transferencia,Completado,Almacen1,Carlos
+19,2026-04-06,Tomate,Alimentos,,kg,4.2,0.0,PRV004,Cercado,Efectivo,Completado,Almacen1,Ana
+20,2026-04-06,Ajo,Alimentos,12,kg,2.5,0.05,PRV003,Cayma,Tarjeta,Completado,Almacen2,Juan
